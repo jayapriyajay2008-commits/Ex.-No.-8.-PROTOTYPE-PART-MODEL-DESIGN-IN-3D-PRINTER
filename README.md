@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32d11a5b-1455-4015-a981-b1d1d58e7663" />
 
 ### Name: Jayapriya P
 ### Register Number: 212225040144
